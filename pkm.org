@@ -1,0 +1,61 @@
+#+ELEVENTY_BASE_DIR: ~/sync/static-blog/
+#+ELEVENTY_COLLECTIONS: _topics
+#+ELEVENTY_BASE_URL: https://sachachua.com
+#+FILETAGS: topic
+#+ELEVENTY_EXPORT_DATE: 2024-10-16T13:03:25-0400
+#+ELEVENTY_PERMALINK: /topic/pkm/
+#+ELEVENTY_FILE_NAME: topic/pkm/
+#+DATE: 2024-10-18
+#+ID: pkm
+#+title: Personal knowledge management
+
+- Overall:
+  - [[https://sachachua.com/blog/2024/10/thinking-about-12-aspects-of-personal-information-knowledge-management/][Thinking about 12 aspects of personal information/knowledge management]] (2024)
+  - [[sketchLink:2024-10-13-01 Reflecting on my personal information management timeline #pim #pkm #review #workflow.png]]
+  - [[https://sachachua.com/blog/2014/03/describing-personal-knowledge-management-routines-harold-jarches-seek-sense-share-framework/][Describing my personal knowledge management routines with Harold Jarche’s Seek-Sense-Share framework]] (March 2014)
+- Sketches as part of my PKM:
+  - [[sketchLink:2024-10-17-02 How sketchnotes fit into my personal knowledge management #pkm #sketchnoting #drawing.png]]
+- Writing:
+  - [[https://sachachua.com/blog/2015/01/writing-open-loops-closed-loops-working-forgetfulness/][Writing: Open loops, closed loops, and working with forgetfulness]] (Jan 2015)
+- Other people's thoughts:
+  - [[https://sachachua.com/blog/2024/10/karl-voit-s-2023-talk-the-art-of-personal-information-management/][Karl Voit's 2023 talk: The Art of Organizing Yourself and Your Data]] - Vocabulary problem, desktop metaphor vs tagging
+  - [[https://sachachua.comblog/2013/10/visual-book-review-how-to-make-a-complete-map-of-every-thought-you-think-lion-kimbro/][How to make a complete map of every thought you think]] (Oct 2013) - Lion Kimbro's 2003 book described taking slow thinking to an interesting extreme (Oct 2013)
+  - [[https://sachachua.com/blog/2012/03/visual-book-notes-how-to-read-a-book/][How to read a book]] (March 2013) - I picked up the idea of a syntopicon (index/map of topics across books) from Adler and van Doren's 1972 book
+- Maps and indices:
+  - [[https://sachachua.com2015/05/mapping-knowledge/][Mapping knowledge]] (May 2015)
+  - [[https://sachachua.com/blog/2012/03/mapping-blog-archives/][Mapping my blog archives]] (March 2012)
+  - [[https://sachachua.com/blog/2010/03/what-do-i-want-to-learn-making-a-map/][What do I want to learn? Making a map]]
+  - [[https://sachachua.com/blog/2013/11/mapping-what-im-learning/][Mapping what I'm learning]] (Nov 2013)
+  - [[https://sachachua.com/blog/2015/01/thoughts-context-connecting-posts-blog-post-index/][Thoughts in context: Connecting posts to my blog post index]] - a technical tweak that connects old posts to my outline (Jan 2015)
+  - [[https://sachachua.com/blog/2015/01/visualizing-internal-citation-network-blog/][Visualizing the internal citation network of my blog]] - another way to see the associations in a large archive (Jan 2015)
+  - [[https://sachachua.com/blog/2010/01/thinking-out-loud-mapping-what-i-know/][Thinking out loud: Mapping what I know]] (Jan 2010)
+  - [[https://sachachua.com/blog/2012/01/mapping-out-what-ive-learned-at-ibm/][Mapping out what I've learned at IBM]] (Jan 2012)
+  - [[https://sachachua.com/blog/2015/01/thoughts-context-connecting-posts-blog-post-index/][Thoughts in context: Connecting posts to my blog post index]] (Jan 2015)
+- Archives
+  - [[https://sachachua.com/blog/2014/12/building-better-time-machine/][Building a better time machine]] (Dec 2014)
+  - [[https://sachachua.com/blog/2014/12/connecting-previous-thoughts-covering-ground/][Connecting to previous thoughts and covering more ground]] (Dec 2014)
+  - [[https://sachachua.com/blog/2014/03/notes-managing-large-blog-archive/][More notes on managing a large blog archive: 17 things I do to handle 10+ years of blog posts]] (March 2014)
+  - [[https://sachachua.com/blog/2012/05/maintaining-a-manual-topical-index-for-my-blog-using-emacs/][Maintaining a manual topical index for my blog using Emacs]] (May 2012)
+  - [[https://sachachua.com/blog/2013/07/how-to-manage-a-large-blog-archive/][How to manage a large blog archive]] (July 2013)
+- Sketches:
+  - [[sketchLink:2022-12-27-07 How can I capture more thoughts, snippets, and memories #kaizen #pkm.png]]
+  - [[sketchLink:2015-05-13f Mapping what I know -- index card #workflow #blogging #index-cards #mapping #pkm.png]]
+  - [[sketchLink:2015-05-13e Mapping knowledge for yourself and others -- index card #mapping #pkm #sharing.png]]
+  - [[sketchLink:2015-05-13d Goals for structured information -- index card #pkm.png]]
+  - [[sketchLink:2015-05-12e What do I want from my archive of index cards -- index card #pkm #archive #drawing #index-cards.png]]
+  - [[sketchLink:2015-05-12d What do I want to get from my blog archive, looking back twenty years from now -- index card #blogging #pkm #archive.png]]
+  - [[sketchLink:2015-05-11d Organizing and sharing research -- index card #pkm.png]]
+  - [[sketchLink:2015-05-08c Managing my structured information -- index card #pkm #knowledge #sharing.png]]
+  - [[sketchLink:2015-02-06 How can I brainstorm and organize questions in order to speed up my writing and drawing -- index card #thinking #questions #pkm #acceleration.png]]
+  - [[sketchLink:2015-02-05 How can I organize my questions - and why -- index card #questions #organization #pkm.png]]
+  - [[sketchLink:2015-02-03 What kinds of personal knowledge do I want to manage -- index card #pkm.png]]
+  - [[sketchLink:2015-02-03 Tree view, forest view -- index card #org #pkm #tasks.png]]
+  - [[sketchLink:2015-02-02 Plain text -- index card #data #organization #pkm #org.png]]
+  - [[sketchLink:2015-02-01 Index card sketches and monthly reviews -- index card #organization #pkm #indexing.png]]
+  - [[sketchLink:2015-02-01 Digital piles of index cards -- index card #indexing #organization #pkm.png]]
+  - [[sketchLink:2015-01-28 What areas of knowledge do I want to organize -- index card #writing #pkm.png]]
+  - [[sketchLink:2015-01-12 Examining my blog analysis goals -- index card #blog #coding #pkm.png]]
+  - [[sketchLink:2014-03-03 How I work with knowledge - seek, sense, share #pkm.png]]
+- [[https://sachachua.com/2013/10/i-dont-write-about-everything/][I don’t write about everything; How do you manage your private notes?]] (Oct 2013)
+- [[https://sachachua.com/blog/2015/01/deliberately-making-sense/][Deliberately making sense]] (Jan 2015)
+- [[https://sachachua.com/blog/2010/01/personal-knowledge-management-morgue-files-capture-systems/][Personal knowledge management, morgue files, capture systems]] (Jan 2010)

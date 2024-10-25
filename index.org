@@ -1,0 +1,17 @@
+#+ELEVENTY_BASE_DIR: ~/sync/static-blog/
+#+ELEVENTY_BASE_URL: https://sachachua.com
+#+FILETAGS: topic
+#+ELEVENTY_EXPORT_DATE: 2024-10-16T13:03:25-0400
+#+ELEVENTY_PERMALINK: /topic/
+#+ELEVENTY_FILE_NAME: topic/
+
+#+title: Index
+
+I'm slowly working on making more topic maps.
+
+Here are some topics for starters:
+
+- [[topic:pkm]]
+- [[topic:visual-book-notes]]
+
+For a larger list of blog posts, check out [[blog:/blog/outline]].
