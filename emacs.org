@@ -1,0 +1,123 @@
+#+ELEVENTY_BASE_DIR: ~/sync/static-blog/
+#+ELEVENTY_BASE_URL: https://sachachua.com
+#+FILETAGS: topic
+#+TITLE: Emacs
+#+ELEVENTY_EXPORT_DATE: 2024-10-16T13:03:25-0400
+#+ELEVENTY_PERMALINK: /topic/emacs/
+#+ELEVENTY_FILE_NAME: topic/emacs/
+
+See also:
+- [[topic:org]]
+- topic:elisp
+- topic:emacsconf
+- Podcasts and videos:
+  - [[blog:/blog/outline/#yay-emacs][Yay Emacs]]: short Emacs videos
+  - [[blog:/blog/outline/#emacs-chats][Emacs Chats]]
+  - [[blog:/blog/outline/#emacs-hangouts][Emacs Hangouts]]
+- Emacs and...
+  - [[topic:index#topic-index-emacs-and-development][development]]
+  - [[topic:index#topic-index-emacs-and-the-web][web]]
+  - [[topic:index#topic-index-emacs-and-writing][writing]]
+  - [[topic:index#topic-index-emacs-bbdb][BBDB]]
+  - [[topic:index#topic-index-emacs-configuring][configuring]]
+  - [[topic:index#topic-index-emacs-mail][mail]]
+  - [[topic:index#topic-index-emacs-subed-editing-subtitles][subed]] - editing subtitles
+
+Featured:
+- [X] [[blog:/blog/2019/07/tweaking-emacs-on-android-via-termux-xclip-xdg-open-syncthing-conflicts/][Tweaking Emacs on Android via Termux: xclip, xdg-open, syncthing conflicts]]
+- [X] [[blog:/blog/2018/09/interview-with-thierry-volpiatto/][Interview with Thierry Volpiatto, maintainer of Emacs Helm]]
+- [X] [[blog:/blog/2015/09/emacs-conf-video-tech-notes-jit-si-twitch-tv-livestreamer-ffmpeg/][Emacs Conf video tech notes: jit.si, twitch.tv, livestreamer, ffmpeg]] (Sept 2015)
+- [X] [[blog:/blog/2013/05/how-to-learn-emacs-a-hand-drawn-one-pager-for-beginners/][How to Learn Emacs: A Hand-drawn One-pager for Beginners]] (May 2013)
+- [X] [[blog:/blog/2013/09/how-to-learn-emacs-keyboard-shortcuts-a-visual-tutorial-for-newbies/][How to learn Emacs keyboard shortcuts (a visual tutorial for newbies)]]
+- [X] [[blog:/blog/2013/04/emacs-conference-2013-sketchnotes-also-pdf/][Emacs Conference 2013 Sketchnotes (also, PDF!)]] (Apr 2013)
+- [X] [[blog:/blog/2014/06/emacs-beginner-intermediate-advanced/][Emacs: beginner, intermediate, advanced]] (June 2014)
+- [X] [[blog:/blog/2014/04/emacs-beginner-resources/][Emacs beginner resources]] (Apr 2014)
+
+- Learning
+  - [X] [[blog:/blog/2015/03/the-balance-between-doing-and-improving-evaluating-yak-shaving/][The balance between doing and improving - evaluating yak-shaving]] (Mar 2015)
+  - [X] [[blog:/blog/2015/02/getting-started-emacs-empty-cup/][Getting started with Emacs? Empty your cup]] (Feb 2015)
+  - [X] [[blog:/blog/2014/11/emacs-coaching-unknowns-figuring-want-learn/][Emacs, coaching, and unknowns: Figuring out what I want to learn]] (Nov 2014)
+- Teaching
+  - [X] [[blog:/blog/2015/02/emacs-peer-peer-coaching-easier-use-impatient-mode-share-buffer/][Emacs: Peer-to-peer coaching is easier when you use impatient-mode to share your buffer]] (Feb 2015)
+  - [X] [[blog:/blog/2014/06/emacs-coaching/][What could Emacs coaching look like?]] (June 2014)
+  - [X] [[blog:/blog/2014/05/planning-e-mail-based-course-emacs-lisp/][Planning an e-mail-based course for Emacs Lisp]] (May 2014)
+- Microhabits and incremental improvement
+  - [X] [[blog:/blog/2024/10/yay-emacs-inserting-links-with-consult-omni/][Yay Emacs 6: Inserting links with consult-omni]] (2024)
+  - [X] [[blog:/blog/2015/12/scan-bin-turn-scripts-emacs-commands/][Scan ~/bin and turn the scripts into Emacs commands]] (Dec 2015)
+  - [X] [[blog:/blog/2015/01/emacs-kaizen-ace-isearch-combines-ace-jump-mode-helm-swoop/][Emacs kaizen: ace-isearch combines ace-jump-mode and helm-swoop]] (Jan 2015)
+  - [X] [[blog:/blog/2015/01/developing-emacs-micro-habits-text-automation/][Developing Emacs micro-habits: Abbreviations and templates]] (Jan 2015)
+  - [X] [[blog:/blog/2015/01/emacs-microhabit-switching-windows-windmove-ace-window-ace-jump/][Emacs microhabit: Switching windows with windmove, ace-window, and ace-jump]] (Jan 2015)
+  - [X] [[blog:/blog/2015/01/emacs-kaizen-helm-swoop-editing/][Emacs kaizen: helm-swoop and editing]] (Jan 2015)
+  - [X] [[blog:/blog/2014/12/emacs-kaizen-ace-jump-zap-lets-use-c-u-zap-character/][Emacs kaizen: ace-jump-zap lets you use C-u to zap to any character]] (Dec 2014) Quick Emacs tip for using ace-jump-zap-to-char-dwim or ace-jump-zap-up-to-char-dwim for deleting characters up to a specified character anywhere on your screen
+  - [X] [[blog:/blog/2014/12/emacs-m-y-helm-show-kill-ring/][Emacs: M-y as helm-show-kill-ring]] (Dec 2014)
+  - [X] [[blog:/blog/2014/11/emacs-evaluating-javascript-css-chrome-using-skewer-mode/][Emacs: Evaluating Javascript and CSS in Chrome using Skewer Mode]] (Nov 2014)
+- Community
+  - [X] [[blog:/blog/2024/04/emacs-interview-daniel-semyonov/][Emacs interview: Daniel Semyonov]] (2024)
+  - [X] [[blog:/blog/2021/12/thinking-about-emacs-community-maintenance/][Thinking about Emacs community maintenance]] (2021)
+  - [X] [[blog:/blog/2021/12/why-i-love-emacs-from-bob-oliver/][Why I Love Emacs - from Bob Oliver]] (2021)
+
+Other:
+- [X] [[blog:/blog/2024/01/patching-elfeed-and-shr-to-handle-svg-images-with-viewbox-attributes/][Patching elfeed and shr to handle SVG images with viewBox attributes]] (2024)
+- [X] [[blog:/blog/2024/09/highlight-the-current-line-while-still-being-able-to-easily-customize-describe-underlying-faces/][Highlight the current line while still being able to easily customize/describe underlying faces]] (2024)
+- [X] [[blog:/blog/2024/09/quickly-adding-face-properties-to-regions/][Quickly adding face properties to regions]] (2024)
+- [X] [[blog:/blog/2024/03/cubing-and-emacs-checking-out-the-competition/][Cubing and Emacs: Checking out the competition]] (2024)
+- [X] [[blog:/blog/2024/05/emacs-url-retrieve-synchronously-and-set-buffer-multibyte/][Emacs: url-retrieve-synchronously and set-buffer-multibyte]] (2024)
+- [X] [[blog:/blog/2024/01/highlight-the-active-modeline-using-colours-from-modus-themes/][Highlight the active modeline using colours from modus-themes]] (2024)
+- [X] [[blog:/blog/2024/01/animating-svg-topic-maps-with-inkscape-emacs-ffmpeg-and-reveal-js/][Animating SVG topic maps with Inkscape, Emacs, FFmpeg, and Reveal.js]] (2024)
+- [X] [[blog:/blog/2024/01/xml-stylesheet-for-my-feed/][Adding an XSL stylesheet for my RSS and Atom feeds]] (2024)
+- [X] [[blog:/blog/2024/01/choosing-what-to-hack-on/][Emacs tweaks: Choosing what to hack on]] (2024)
+- [X] [[blog:/blog/2023/09/how-i-keep-track-of-new-emacs-packages/][How I keep track of new Emacs packages]] (2023)
+- [X] [[blog:/blog/2023/10/getting-mermaid-js-running-on-my-system-needed-to-symlink-chromium-for-puppeteer/][Getting Mermaid JS and ob-mermaid running on my system - needed to symlink Chromium for Puppeteer]] (2023)
+- [X] [[blog:/blog/2023/12/analyzing-my-emacs-time-over-the-last-11-years-or-so/][Analyzing my Emacs time over the last 11 years or so]] (2023)
+- [X] [[blog:/blog/2023/01/using-the-calendar-date-echo-text-variable-to-help-plot-a-heatmap-on-a-year-long-calendar-in-emacs/][Using the calendar-date-echo-text variable to help plot a heatmap on a year-long calendar in Emacs]] (2023)
+- [X] [[blog:/blog/2023/01/using-spookfox-to-scroll-firefox-up-and-down-from-emacs/][Using Spookfox to scroll Firefox up and down from Emacs]] (2023)
+- [X] [[blog:/blog/2021/08/started-learning-how-to-interactively-debug-javascript-in-emacs-with-indium/][Started learning how to interactively debug Javascript in Emacs with Indium]] (2021)
+- [X] [[blog:/blog/2021/08/using-the-wgrep-package-in-emacs-to-rewrite-grep-results-from-lots-of-files/][Using the wgrep package in Emacs to rewrite grep results from lots of files]] (2021)
+- [X] [[blog:/blog/2021/04/grabbing-the-youtube-auto-generated-captions-is-pretty-useful-when-making-emacs-news/][Grabbing the Youtube auto-generated captions is pretty useful when making Emacs News]] (2021)
+- [X] [[blog:/blog/2021/02/guest-post-bookmarking-pdfs-in-emacs-with-pdf-tools-and-registers/][Guest post: Bookmarking PDFs in Emacs with pdf-tools and registers]] (2021)
+- [X] [[blog:/blog/2021/02/marginalia-and-hiding-the-value-of-password-ish-variables/][Marginalia and hiding the value of password-ish variables]] (2021)
+- [X] [[blog:/blog/2017/04/emacs-pasting-with-the-mouse-without-moving-the-point-mouse-yank-at-point/][Emacs: Pasting with the mouse without moving the point - mouse-yank-at-point]]
+- [X] [[blog:/blog/2016/04/keep-emacs-alive-x-crashes-running-background-daemon/][Keep Emacs alive through X crashes by running it in the background with --daemon]]
+- [X] [[blog:/blog/2016/02/building-today-learned-habit-displaying-documentation-random-emacs-commands/][Building a today-I-learned habit, and displaying the documentation for random Emacs commands]]
+- [X] [[blog:/blog/2015/10/wow-literate-devops-with-emacs-and-org-does-actually-work-on-windows/][Wow, literate devops with Emacs and Org does actually work on Windows]] (Oct 2015)
+- [X] [[blog:/blog/2015/04/john-wiegley-on-organizing-your-emacs-configuration-with-use-package/][John Wiegley on organizing your Emacs configuration with use-package]] (April 2015)
+- [X] [[blog:/blog/2015/03/getting-helm-org-refile-clock-create-tasks/][Getting Helm and org-refile to clock in or create tasks]] (Mar 2015)
+- [X] [[blog:/blog/2015/02/lets-virtual-emacs-conference-august-help-make-happen/][Let's have a virtual Emacs conference in August - help me make it happen!]] (Feb 2015)
+- [X] [[blog:/blog/2015/02/continuous-integration-code-coverage-emacs-packages-travis-coveralls/][Continuous integration and code coverage for Emacs packages with Travis and Coveralls]] (Feb 2015)
+- [X] [[blog:/blog/2015/02/using-emacs-prepare-files-external-applications-like-autodesk-sketchbook-pro/][Using Emacs to prepare files for external applications like Autodesk Sketchbook Pro]] (Feb 2015)
+- [X] [[blog:/blog/2015/01/thinking-make-better-use-yasnippet-emacs-workflow/][Thinking about how to make better use of Yasnippet in my Emacs workflow]] (Jan 2015)
+- [X] [[blog:/blog/2015/01/improving-evil-plans-emacs/][Improving my evil plans for Emacs]] (Jan 2015)
+- [X] [[blog:/blog/2014/11/emacs-limiting-magit-status-directory/][Emacs: Limiting Magit status to a directory]] (Nov 2014)
+- [X] [[blog:/blog/2014/05/cobbling-together-semi-auto-responder-using-emacs-gnus-org-contacts/][Cobbling together a semi-auto-responder using Emacs, Gnus, and org-contacts]] (May 2014)
+- [X] [[blog:/blog/2014/05/making-my-emacs-related-blog-posts-available-for-offline-reading/][Making my Emacs-related blog posts available for offline reading]] (May 2014)
+- [X] [[blog:/blog/2014/05/2048-emacs-colours/][2048 in Emacs, and colours too]] (May 2014)
+- [X] [[blog:/blog/2014/05/getting-r-ggplot2-work-emacs-org-mode-babel-blocks-also-tracking-number-todos/][Getting R and ggplot2 to work in Emacs Org Mode Babel blocks; also, tracking the number of TODOs]] (May 2014)
+- [X] [[blog:/blog/2014/04/emacs-abcs-apropos/][Emacs ABCs: A is for Apropos]] (Apr 2014)
+- [X] [[blog:/blog/2014/04/emacs-drawings-dired-moving-around/][More Emacs drawings: Dired, moving around]] (Apr 2014)
+- [X] [[blog:/blog/2014/04/emacs-basics-customizing-emacs/][Emacs Basics: Customizing Emacs]] (Apr 2014)
+- [X] [[blog:/blog/2014/03/emacs-tweaks-export-org-checkboxes-using-utf-8-symbols/][Emacs tweaks: Export Org checkboxes using UTF-8 symbols]] (March 2014)
+- [X] [[blog:/blog/2014/03/emacs-evernote-enscript-exe-org-links/][Emacs, Evernote (through enscript.exe), and Org links]] (March 2014)
+- [X] [[blog:/blog/2013/06/animating-things-in-emacs/][Animating things in Emacs]] (June 2013)
+- [X] [[blog:/blog/2013/04/emacs-chat-intro/][Emacs chat intro]] (Apr 2013)
+- [X] [[blog:/blog/2013/03/emacs-use-function-keys-for-custom-keyboard-shortcuts/][Emacs: Use function keys for custom keyboard shortcuts]]
+- [X] [[blog:/blog/2013/03/got-emacs-questions-lets-try-emacs-tutoring-pair-programming/][Got Emacs questions? Let's try Emacs tutoring / pair programming!]]
+- [X] [[blog:/blog/2012/06/making-gnu-emacs-play-well-on-microsoft-windows-7/][Making GNU Emacs play well on Microsoft Windows 7]]
+- [X] [[blog:/blog/2012/06/emacs-braindump-john-wiegley/][Emacs braindump from John Wiegley =)]]
+- [X] [[blog:/blog/2012/06/things-that-ive-used-emacs-for/][Things that I've used Emacs for]]
+- [X] [[blog:/blog/2012/05/where-i-am-in-terms-of-emacs/][Where I am in terms of Emacs]]
+- [X] [[blog:/blog/2007/12/oh-no-version-dependencies/][Oh no! Version dependencies…]]
+- [X] [[blog:/blog/2007/12/planner-basic-configuration/][Planner, basic configuration]]
+- [X] [[blog:/blog/2007/12/why-i-use-emacs-to-manage-my-tasks/][Why I use Emacs to manage my tasks]]
+- [X] [[blog:/blog/2007/12/one-day-with-planner/][One day  with Planner]]
+- [X] [[blog:/blog/2007/12/gnus-multi-pane-tricks-or-i-heart-planet-emacsen/][Gnus multi-pane tricks, or I heart Planet Emacsen]]
+- [X] [[blog:/blog/2010/12/whats-new-in-emacs-24/][What's coming up in Emacs 24]]
+- [X] [[blog:/blog/2009/11/thinking-about-planneremacswiki-versus-wordpress/][Thinking about Planner/EmacsWiki versus WordPress]]
+- [X] [[blog:/blog/2009/12/behind-the-scenes-livin-la-vida-emacs/][Behind the scenes: Livin' la Vida Emacs]]
+- [X] [[blog:/blog/2008/01/how-i-got-hooked/][How I got hooked]]
+- [X] [[blog:/blog/2008/02/xkcd-real-programmers-use-emacs/][xkcd: Real programmers use Emacs]]
+- [X] [[blog:/blog/2008/03/working-on-the-book/][Working on the book]]
+- [X] [[blog:/blog/2008/07/might-need-to-spend-more-time-hanging-out-with-emacs-geeks/][Might need to spend more time hanging out with Emacs geeks =)]]
+- [X] [[blog:/blog/2008/07/yet-another-snippet-mode-for-emacs/][Yet another snippet mode for Emacs]]
+- [X] [[blog:/blog/2008/07/emacs-is-not-just-for-computer-geeks-also-these-are-the-things-that-keep-me-going/][Emacs is not just for computer geeks; also, these are the things that keep me going]]
+- [X] [[blog:/blog/2008/07/emacs-remember-and-gtd/][Emacs, Remember, and GTD]]
+- [X] [[blog:/blog/2012/01/emacs-telling-external-processes-about-terminal-capabilities-and-watching-over-other-peoples-shoulders/][Emacs: Telling external processes about terminal capabilities, and watching over other people's shoulders]] (Jan 2012)

@@ -1,0 +1,25 @@
+#+ELEVENTY_BASE_DIR: ~/sync/static-blog/
+#+ELEVENTY_COLLECTIONS: _topics
+#+ELEVENTY_BASE_URL: https://sachachua.com
+#+FILETAGS: topic
+#+ELEVENTY_EXPORT_DATE: 2024-10-16T13:03:25-0400
+#+ELEVENTY_PERMALINK: /topic/supernote/
+#+ELEVENTY_FILE_NAME: topic/supernote/
+#+DATE: 2024-10-29
+#+title: Supernote
+
+- Getting images off the Supernote:
+  - [X] [[https://sachachua.com/blog/2024/01/using-puppeteer-to-grab-an-image-from-the-supernote-s-screen-mirror/][Using Puppeteer to grab an image from the SuperNote's screen mirror]] (2024)
+  - [X] [[https://sachachua.com/blog/2024/09/org-attaching-the-latest-image-from-my-supernote-via-browse-and-access/][org-attaching the latest image from my Supernote via Browse and Access]]
+- Processing images:
+  - [X] [[https://sachachua.com/blog/2022/08/recoloring-my-sketches-with-python/][Recoloring my sketches with Python]] (2022)
+  - [X] [[https://sachachua.com/blog/2023/01/recolor-rename-and-file-my-sketches-automatically/][Rename, recolor, and file my sketches automatically]] (2023)
+  - [X] [[https://sachachua.com/blog/2023/01/tweaking-my-writing-workflow-using-supernote-s-new-handwriting-recognition/][Tweaking my writing workflow using SuperNote's new handwriting recognition]] (2023)
+- Getting stuff onto the Supernote:
+  - [X] [[https://sachachua.com/blog/2024/09/using-emacs-lisp-to-export-txt-epub-pdf-from-org-mode-to-the-supernote-via-browse-and-access/][Using Emacs Lisp to export TXT/EPUB/PDF from Org Mode to the Supernote via Browse and Access]] (2024)
+  - [X] [[https://sachachua.com/blog/2023/01/compiling-selected-blog-posts-into-html-and-epub-so-i-can-annotate-them/][Compiling selected blog posts into HTML and EPUB so I can annotate them]] (2023)
+- Other:
+  - [X] [[https://sachachua.com/blog/2023/01/building-up-my-tech-notes/][Building up my tech notes]] (2023)
+  - [X] [[https://sachachua.com/blog/2022/08/writing-my-blog-posts-by-hand/][Writing my blog posts by hand]] (2022)
+  - [X] [[https://sachachua.com/blog/2022/07/trying-out-the-supernote-a5x/][Trying out the SuperNote A5X]] (2022)
+  - [X] [[https://sachachua.com/blog/2022/08/one-month-with-the-supernote-a5x/][One month with the SuperNote A5X]] (2022)

@@ -1,0 +1,27 @@
+#+ELEVENTY_BASE_DIR: ~/sync/static-blog/
+#+ELEVENTY_COLLECTIONS: _topics
+#+ELEVENTY_BASE_URL: https://sachachua.com
+#+FILETAGS: topic
+#+ELEVENTY_EXPORT_DATE: 2024-10-16T13:03:25-0400
+#+ELEVENTY_PERMALINK: /topic/elisp/
+#+ELEVENTY_FILE_NAME: topic/elisp/
+#+DATE: 2024-10-25
+#+title: Emacs Lisp
+
+- Read Lisp, Tweak Emacs (2014)
+
+  - [X] [[https://sachachua.com/blog/2014/06/read-lisp-tweak-emacs-beginner-14-try-emacs-lisp/][1/4: How to try Emacs Lisp]] (June 2014)
+  - [X] [[https://sachachua.com/blog/2014/06/read-lisp-tweak-emacs-beginner-24-understand-emacs-lisp-code/][2/4: How to understand what Emacs Lisp code does]] (June 2014)
+  - [X] [[https://sachachua.com/blog/2014/06/read-lisp-tweak-emacs-beginner-34-can-make-things-convenient/][3/4: How can I make things more convenient?]] (June 2014)
+  - [X] [[https://sachachua.com/blog/2014/06/read-lisp-tweak-emacs-beginner-44-can-add-features-deal-errors/][4/4: “How can I add more features? How do I deal with errors?”]] (June 2014)
+- [X] [[https://sachachua.com/blog/2013/03/learn-emacs-lisp-by-reading-emacs-lisp/][Learn Emacs Lisp by reading Emacs Lisp]]
+- [X] [[https://sachachua.com/blog/2023/01/making-highlight-sexp-follow-modus-themes-toggle/][Making highlight-sexp follow modus-themes-toggle]] (2023)
+- [X] [[https://sachachua.com/blog/2021/04/emacs-making-a-hydra-cheatsheet-for-lispy/][Emacs: Making a hydra cheatsheet for Lispy]]
+- [X] [[https://sachachua.com/blog/2018/01/org-mode-inserting-a-function-definition/][Org Mode: Inserting a function definition]]
+- [X] [[https://sachachua.com/blog/2023/12/updating-youtube-videos-via-the-youtube-data-api-using-emacs-lisp-and-url-http-oauth/][Updating YouTube videos via the YouTube Data API using Emacs Lisp and url-http-oauth]] (2023)
+- [X] [[https://sachachua.com/blog/2023/01/display-a-calendar-heat-map-using-emacs-lisp/][Display a calendar heat map using Emacs Lisp]] (2023)
+- [X] [[https://sachachua.com/blog/2023/01/checking-image-sizes-and-aspect-ratios-in-emacs-lisp-so-that-i-can-automatically-smartcrop-them/][Checking image sizes and aspect ratios in Emacs Lisp so that I can automatically smartcrop them]] (2023)
+- [X] [[https://sachachua.com/blog/2022/01/defining-generic-and-mode-specific-emacs-lisp-functions-with-cl-defmethod/][Defining generic and mode-specific Emacs Lisp functions with cl-defmethod]] (2022)
+- [X] [[https://sachachua.com/blog/2022/01/coverage-reporting-in-emacs-with-buttercup-undercover-coverage-and-a-makefile/][Coverage reporting in Emacs with Buttercup, Undercover, Coverage, and a Makefile]] (2022)
+
+See also: topic:emacs

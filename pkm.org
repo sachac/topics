@@ -14,8 +14,10 @@
   - [[sketchLink:2024-10-13-01 Reflecting on my personal information management timeline #pim #pkm #review #workflow.png]]
   - [[https://sachachua.com/blog/2014/03/describing-personal-knowledge-management-routines-harold-jarches-seek-sense-share-framework/][Describing my personal knowledge management routines with Harold Jarche’s Seek-Sense-Share framework]] (March 2014)
 - Sketches as part of my PKM:
+  - [[https://sachachua.com/blog/2024/10/organizing-my-visual-book-notes-by-topic/][Organizing my visual book notes by topic]] (2024)
   - [[sketchLink:2024-10-17-02 How sketchnotes fit into my personal knowledge management #pkm #sketchnoting #drawing.png]]
 - Writing:
+  - [[https://sachachua.com/blog/2024/10/how-to-take-smart-notes-sonke-ahrens-2017/][How to Take Smart Notes - Sonke Ahrens (2017)]]
   - [[https://sachachua.com/blog/2015/01/writing-open-loops-closed-loops-working-forgetfulness/][Writing: Open loops, closed loops, and working with forgetfulness]] (Jan 2015)
 - Other people's thoughts:
   - [[https://sachachua.com/blog/2024/10/karl-voit-s-2023-talk-the-art-of-personal-information-management/][Karl Voit's 2023 talk: The Art of Organizing Yourself and Your Data]] - Vocabulary problem, desktop metaphor vs tagging

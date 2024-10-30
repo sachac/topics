@@ -1,0 +1,50 @@
+#+ELEVENTY_BASE_DIR: ~/sync/static-blog/
+#+ELEVENTY_COLLECTIONS: _topics
+#+ELEVENTY_BASE_URL: https://sachachua.com
+#+FILETAGS: topic
+#+ELEVENTY_EXPORT_DATE: 2024-10-16T13:03:25-0400
+#+ELEVENTY_PERMALINK: /topic/yearly/
+#+ELEVENTY_FILE_NAME: topic/yearly/
+#+DATE: 2024-10-23
+#+title: Yearly reviews
+
+Decade reviews:
+
+#+begin_gallerylist
+- [X] [[https://sachachua.com/blog/2023/08/turning-40-a-review-of-the-last-decade/][Turning 40: a review of the last decade]] (2023)
+- [X] [[https://sachachua.com/blog/2013/08/turning-30-a-review-of-the-last-decade/][Turning 30: A review of the last decade]]
+#+end_gallerylist
+
+Annual reviews:
+
+#+begin_gallerylist
+- [X] [[https://sachachua.com/blog/2024/08/turning-41-life-as-a-40-year-old/][Turning 41; life as a 40-year-old]] (2024)
+- [X] [[https://sachachua.com/blog/2023/08/turning-40-life-as-a-39-year-old/][Turning 40; life as a 39-year-old]] (2023)
+- [X] [[https://sachachua.com/blog/2022/08/turning-39-life-as-a-38-year-old/][Turning 39; life as a 38-year-old]] (2022)
+- [X] [[https://sachachua.com/blog/2021/08/turning-38-life-as-a-37-year-old/][Turning 38; life as a 37-year-old]] (2021)
+- [X] [[https://sachachua.com/blog/2020/08/turning-37-life-as-a-36-year-old/][Turning 37; life as a 36-year-old]]
+- [X] [[https://sachachua.com/blog/2019/08/turning-36-life-as-a-35-year-old/][Turning 36; life as a 35-year-old]]
+- [X] [[https://sachachua.com/blog/2018/08/turning-35-life-as-a-34-year-old/][Turning 35; life as a 34-year-old]]
+- [X] [[https://sachachua.com/blog/2017/10/turning-34-life-as-a-33-year-old/][Turning 34; life as a 33-year-old]]
+- [X] [[https://sachachua.com/blog/2016/08/life-33-year-old/][Life as a 33-year-old]]
+- [X] [[https://sachachua.com/blog/2016/01/2015-in-review/][2015 in review]] (Jan 2016)
+- [X] [[https://sachachua.com/blog/2015/08/life-as-a-31-year-old/][Life as a 31-year-old]] (August 2015)
+- [X] [[https://sachachua.com/blog/2015/01/2014-review/][2014 in review]] (Jan 2015)
+- [X] [[https://sachachua.com/blog/2014/08/turning-31/][Turning 31]] (Aug 2014)
+- [X] [[https://sachachua.com/blog/2014/01/year-in-review-2013/][Year in review: 2013]] (Jan 2014)
+- [X] [[https://sachachua.com/blog/2013/12/year-drawing-own-content/][A year of drawing my own content]] (Dec 2013)
+- [X] [[https://sachachua.com/blog/2013/08/year-in-review-life-as-a-29-year-old/][Year in review: Life as a 29-year-old]]
+- [X] [[https://sachachua.com/blog/2012/12/2012-as-a-sketch/][2012 as a sketch]]
+- [X] [[https://sachachua.com/blog/2012/12/year-in-review-2012/][Year in review: 2012]]
+- [X] [[https://sachachua.com/blog/2012/08/twenty-nine-life-as-a-28-year-old/][Twenty-nine; life as a 28-year-old]]
+- [X] [[https://sachachua.com/blog/2011/08/looking-back-at-life-as-a-27-year-old/][Looking back at life as a 27-year-old]]
+- [X] [[https://sachachua.com/blog/2011/08/living-an-awesome-life-as-a-27-year-old-a-year-in-blog-posts/][Living an awesome life as a 27-year-old: a year in blog posts]]
+- [X] [[https://sachachua.com/blog/2010/08/twentyseven/][Twenty-seven; life as a twenty-six year old]]
+- [X] [[https://sachachua.com/blog/2011/12/2011-in-review/][2011 in review]] (Dec 2011)
+- [X] [[https://sachachua.com/blog/2010/12/yearly-review-2010/][Yearly review: 2010]]
+- [X] [[https://sachachua.com/blog/2009/01/annual-letter-the-numbers/][Annual letter: the numbers]]
+- [X] [[https://sachachua.com/blog/2009/08/my-life-as-a-25-year-old/][My life as a 25-year-old]]
+- [X] [[https://sachachua.com/blog/2009/12/lessons-from-2009-and-plans-for-2010/][Lessons from 2009 and plans for 2010]]
+- [X] [[https://sachachua.com/blog/2008/08/year-in-review-life-as-a-24-year-old/][Year in review: Life as a 24-year-old]]
+- [X] [[https://sachachua.com/blog/2008/12/2008-annus-mirabilis/][2008: Annus Mirabilis]]
+#+end_gallerylist

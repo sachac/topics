@@ -1,0 +1,57 @@
+#+ELEVENTY_BASE_DIR: ~/sync/static-blog/
+#+ELEVENTY_BASE_URL: https://sachachua.com
+#+FILETAGS: topic
+#+TITLE: Emacsconf
+#+ELEVENTY_EXPORT_DATE: 2024-10-16T13:03:25-0400
+#+ELEVENTY_PERMALINK: /topic/emacsconf/
+#+ELEVENTY_FILE_NAME: topic/emacsconf/
+
+EmacsConf website: [[https://emacsconf.org][emacsconf.org]]
+
+- Communication:
+  - [[https://sachachua.com//blog/2023/09/emacsconf-capturing-submissions-from-e-mails/][Capturing submissions from e-mails]]
+  - [[https://sachachua.com//blog/2023/10/emacsconf-backstage-adding-notes-to-org-logbook-drawers-from-e-mails/][Adding notes to Org logbook drawers from e-mails]]
+  - [[https://sachachua.com//blog/2023/10/emacsconf-backstage-reviewing-the-last-message-from-a-speaker/][Reviewing the last message from a speaker]]
+  - [[https://sachachua.com//blog/2023/09/emacsconf-backstage-adding-a-talk-to-the-wiki/][Adding a talk to the wiki]]
+  - [[https://sachachua.com//blog/2023/10/emacsconf-backstage-using-e-mail-templates-for-confirmations-and-acceptances/][Using e-mail templates for confirmations and acceptances]]
+  - [[https://sachachua.com//blog/2023/10/emacsconf-backstage-coordinating-captioning-volunteers-using-a-backstage-area/][Coordinating captioning volunteers using a backstage area]]
+  - [[https://sachachua.com//blog/2023/10/emacsconf-backstage-automatically-updating-talk-status-from-the-crontab/][Automatically updating talk status from the crontab]]
+  - [[https://sachachua.com//blog/2021/12/adding-little-nudges-to-help-on-the-emacsconf-wiki/][Adding little nudges to help on the EmacsConf wiki]]
+- Subtitles:
+  - [[https://sachachua.com//blog/2020/12/editing-subtitles-in-emacs-with-subed-with-synchronized-video-playback-through-mpv/][Editing subtitles in Emacs with subed, with synchronized video playback through mpv]]
+  - [[blog:/blog/2021/12/emacsconf-backstage-picking-timestamps-from-a-waveform/][Picking timestamps from a waveform]] (2021)
+  - [[https://sachachua.com//blog/2021/12/emacsconf-backstage-chapter-markers/][Chapter markers]]
+  - [[https://sachachua.com//blog/2022/11/converting-our-vtt-files-to-ttml/][Converting our VTT files to TTML]]
+- Schedules:
+  - [[https://sachachua.com//blog/2023/09/emacsconf-converting-timezones/][Converting timezones]]
+  - [[https://sachachua.com//blog/2023/09/emacsconf-backstage-scheduling-with-svgs/][Scheduling with SVGs]]
+  - [[https://sachachua.com//blog/2023/01/emacsconf-backstage-using-tramp-and-timers-to-run-two-tracks-semi-automatically/][Using TRAMP and timers to run two tracks semi-automatically]]
+- Navigation:
+  - [[https://sachachua.com//blog/2023/09/emacsconf-backstage-jumping-to-and-working-with-talks-using-embark/][Jumping to and working with talks using Embark]]
+  - [[https://sachachua.com//blog/2023/09/emacsconf-backstage-making-it-easier-to-do-talk-specific-actions/][Making it easier to do talk-specific actions]]
+  - [[https://sachachua.com//blog/2023/10/emacsconf-backstage-file-prefixes/][File prefixes]]
+- Multimedia:
+  - [[https://sachachua.com//blog/2023/12/emacsconf-backstage-making-a-play-list-checking-it-twice/][Making a (play)list, checking it twice]]
+  - [[https://sachachua.com//blog/2023/12/emacsconf-backstage-using-spookfox-to-publish-youtube-and-toobnix-video-drafts/][Using Spookfox to publish YouTube and Toobnix video drafts]]
+  - [[https://sachachua.com//blog/2021/12/re-encoding-the-emacsconf-videos-with-ffmpeg-and-gnu-parallel/][Re-encoding the EmacsConf videos with FFmpeg and GNU Parallel]]
+  - [[https://sachachua.com//blog/2023/10/emacsconf-backstage-autopilot-with-crontab/][Autopilot with crontab]]
+  - [[https://sachachua.com//blog/2023/12/updating-youtube-videos-via-the-youtube-data-api-using-emacs-lisp-and-url-http-oauth/][Updating YouTube videos via the YouTube Data API using Emacs Lisp and url-http-oauth]]
+  - [[https://sachachua.com//blog/2022/12/using-emacs-and-python-to-record-an-animation-and-synchronize-it-with-audio/][Using Emacs and Python to record an animation and synchronize it with audio]]
+  - [[https://sachachua.com//blog/2024/01/emacsconf-backstage-making-lots-of-intro-videos-with-subed-record/][Making lots of intro videos with subed-record]]
+  - [[https://sachachua.com//blog/2023/12/emacsconf-backstage-trimming-the-bigbluebutton-recordings/][Trimming the BigBlueButton recordings based on YouTube duration]]
+- Data analysis:
+  - [[https://sachachua.com//blog/2023/12/emacsconf-backstage-figuring-out-our-maximum-number-of-simultaneous-bigbluebutton-users/][Figuring out our maximum number of simultaneous BigBlueButton users]]
+  - [[https://sachachua.com//blog/2023/10/summarizing-emacsconf-s-growth-over-5-years-by-year-and-making-an-animated-gif/][Summarizing EmacsConf's growth over 5 years by year, and making an animated GIF]]
+  - [[https://sachachua.com//blog/2023/10/emacsconf-backstage-looking-at-emacsconf-s-growth-over-5-years-and-how-to-do-pivot-tables-and-graphs-with-org-mode-and-the-python-pandas-library/][Looking at EmacsConf's growth over 5 years, and how to do pivot tables and graphs with Org Mode and the Python pandas library]]
+- Other:
+  - [[https://sachachua.com//blog/2023/11/emacsconf-2023-status-update-stuff-is-happening/][EmacsConf 2023 status update: stuff is happening!]]
+  - [[https://sachachua.com//blog/2020/12/emacsconf-2020-emacs-news-highlights/][EmacsConf 2020: Emacs News Highlights and a wishlist]]
+  - [[https://sachachua.com//blog/2022/10/learning-a-lot-on-the-way-to-emacsconf/][Learning a lot on the way to EmacsConf]]
+  - [[https://sachachua.com//blog/2023/10/using-emacs-and-spookfox-to-automate-creating-bigbluebutton-rooms-in-mozilla-firefox/][Using Spookfox to automate creating BigBlueButton rooms in Mozilla Firefox]]
+  - [[https://sachachua.com//blog/2023/10/emacsconf-backstage-automatically-joining-bigbluebutton-web-conferences-using-tampermonkey/][Automatically join BigBlueButton web conferences using Tampermonkey]]
+  - [[https://sachachua.com/blog/2015/09/update-on-emacs-conf-2015-videos-org-mode-tables-and-time-calculations/][Update on Emacs Conf 2015 videos; Org Mode tables and time calculations]] (Sept 2015)
+  - [[https://sachachua.com/blog/2013/04/emacs-conference-2013-videos/][Emacs Conference 2013 videos]] (Apr 2013)
+  - [[https://sachachua.com/blog/2013/03/after-emacs-conf-2013-ideas-for-sunday-and-monday/][After Emacs Conf 2013; ideas for Sunday and Monday]]
+  - [[https://sachachua.com/blog/2013/03/getting-ready-for-the-emacs-conference/][Getting ready for the Emacs Conference]]
+
+See also: topic:emacs

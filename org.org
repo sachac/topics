@@ -1,0 +1,180 @@
+#+ELEVENTY_BASE_DIR: ~/sync/static-blog/
+#+ELEVENTY_COLLECTIONS: _topics
+#+ELEVENTY_BASE_URL: https://sachachua.com
+#+FILETAGS: topic
+#+ELEVENTY_EXPORT_DATE: 2024-10-16T13:03:25-0400
+#+ELEVENTY_PERMALINK: /topic/org/
+#+ELEVENTY_FILE_NAME: topic/org/
+#+DATE: 2024-10-29
+#+ID: org
+#+title: Org Mode
+
+See also: topic:emacs
+
+#+TOC: headlines
+
+* Workflows
+:PROPERTIES:
+:CUSTOM_ID: workflows
+:END:
+- [[https://sachachua.com/blog/2014/01/tips-learning-org-mode-emacs/][Some tips for learning Org Mode for Emacs]] (Jan 2014)
+- [[https://sachachua.com/blog/2023/12/audio-braindump-workflow-tweaks-adding-org-mode-hyperlinks-to-recordings-based-on-keywords/][Audio braindump workflow tweaks: Adding Org Mode hyperlinks to recordings based on keywords]] (2023)
+- [[https://sachachua.com/blog/2014/12/org-mode-publishing-workflow-sketched-books-collection/][Org Mode publishing workflow for Sketched Books collection]] (Dec 2014)
+- [[https://sachachua.com/blog/2007/12/a-day-in-a-life-with-org/][A day in a life with Org]]
+- [[https://sachachua.com/blog/2017/01/what-do-i-want-from-my-org-mode-files/][What do I want from my Org Mode files?]]
+- [[https://sachachua.com/blog/2013/08/emacs-how-i-organize-my-org-files/][Emacs: How I organize my Org files]]
+- [[https://sachachua.com/blog/2013/06/how-i-use-emacs-org-mode-for-my-weekly-reviews/][How I use Emacs Org Mode for my weekly reviews]] (June 2013)
+- [[https://sachachua.com/blog/2010/09/emacs-org-mode-and-publishing-a-weekly-review/][Emacs Org mode and publishing a weekly review]] (Sept 2010)
+- [[https://sachachua.com/blog/2010/09/new-note-taking-workflow-with-emacs-org-mode/][New note-taking workflow with Emacs Org-mode]] (Sept 2010)
+- [[https://sachachua.com/blog/2014/11/using-org-mode-keep-process-journal/][Using Org Mode to keep a process journal]] (Nov 2014)
+- [[https://sachachua.com/blog/2014/04/org-mode-helps-deal-ever-growing-backlog/][How Org Mode helps me deal with an ever-growing backlog]] (Apr 2014)
+* Capture
+:PROPERTIES:
+:CUSTOM_ID: capture
+:END:
+
+- [[https://sachachua.com/blog/2015/06/providing-values-to-functions-in-org-capture-templates/][Providing values to functions in org-capture-templates]] (June 2015)
+- [[https://sachachua.com/blog/2015/02/org-mode-reusing-date-file-datetree-prompt/][Org Mode: Reusing the date from file-datetree-prompt]] (Feb 2015)
+- [[https://sachachua.com/blog/2015/11/capturing-links-quickly-with-emacsclient-org-protocol-and-chrome-shortcut-manager-on-microsoft-windows-8/][Capturing links quickly with emacsclient, org-protocol, and Chrome Shortcut Manager on Microsoft Windows 8]] (Nov 2015)
+- [[https://sachachua.com/blog/2010/11/emacs-recording-ledger-entries-with-org-capture-templates/][Emacs: Recording ledger entries with org-capture-templates]]
+
+* Notes
+:PROPERTIES:
+:CUSTOM_ID: notes
+:END:
+  - [[https://sachachua.com/blog/2014/12/can-improve-organize-notes-org-mode/][Improving how I organize notes with Org Mode]] (Dec 2014) I describe how I organize my Org Mode files, and I think about using tags and links to organize my Org Mode files more effectively.
+  - [[https://sachachua.com/blog/2008/01/searching-your-notes/][Searching Your Notes]]
+  - [[https://sachachua.com/blog/2008/01/outlining-your-notes-with-org/][Outlining Your Notes with Org]]
+  - [[https://sachachua.com/blog/2008/01/january-chapter-7-taking-notes/][January - Chapter 7: Taking Notes]]
+  - [[https://sachachua.com/blog/2015/02/learn-take-notes-efficiently-org-mode/][Learn how to take notes more efficiently in Org Mode]] (Feb 2015)
+  - [[https://sachachua.com/blog/2008/01/note-taking-random-notes-journal-entries-outlines-and-hyperlinks/][Note-taking: Random notes, journal entries, outlines, and hyperlinks]]
+
+* Tasks
+:PROPERTIES:
+:CUSTOM_ID: tasks
+:END:
+- [[https://sachachua.com/blog/2024/10/shuffling-my-org-mode-unscheduled-tasks/][Shuffling my Org Mode unscheduled tasks]] (2024)
+- [[https://sachachua.com/blog/2024/10/change-org-mode-todo-keyword-color-based-on-the-state-and-the-current-modus-theme/][Change Org Mode TODO keyword color based on the state and the current Modus theme]] (2024)
+- [[https://sachachua.com/blog/2007/12/how-to-use-emacs-org-as-a-basic-day-planner/][How to use Emacs Org as a Basic Day Planner]]
+- [[https://sachachua.com/blog/2008/01/projects-in-emacs-org/][Projects in Emacs Org]]
+- [[https://sachachua.com/blog/2007/12/emacs-getting-things-done-with-org-basic/][Emacs: Getting Things Done with Org - Basic]]
+- [[https://sachachua.com/blog/2008/01/tagging-in-org-plus-bonus-code-for-timeclocks-and-tags/][Tagging in Org - plus bonus code for timeclocks and tags!]]
+- [[https://sachachua.com/blog/2007/12/clocking-time-with-emacs-org/][Clocking Time with Emacs Org]]
+- [[https://sachachua.com/blog/2012/12/emacs-strike-through-headlines-for-done-tasks-in-org/][Emacs: Strike through headlines for DONE tasks in Org]]
+- [[https://sachachua.com/blog/2014/04/thinking-todo-keywords/][Thinking about my TODO keywords]] (Apr 2014)
+* Agenda
+:PROPERTIES:
+:CUSTOM_ID: agenda
+:END:
+- [[https://sachachua.com/blog/2024/01/using-consult-and-org-ql-to-search-my-org-mode-agenda-files-and-sort-the-results-to-prioritize-heading-matches/][Using consult and org-ql to search my Org Mode agenda files and sort the results to prioritize heading matches]] (2024)
+- [[https://sachachua.com/blog/2016/12/using-categories-organize-org-agenda/][Using categories to organize your Org agenda]]
+- [[https://sachachua.com/blog/2013/01/emacs-org-display-projects-with-a-few-subtasks-in-the-agenda-view/][Emacs Org: Display projects with a few subtasks in the agenda view]] (Jan 2013)
+- [[https://sachachua.com/blog/2013/01/emacs-org-task-related-keyboard-shortcuts-agenda/][Emacs Org: Task-related keyboard shortcuts for the agenda]] (Jan 2013)
+- [[https://sachachua.com/blog/2012/12/emacs-org-display-subset-tasks-context/][Emacs Org: Display a subset of tasks by context]]
+- [[https://sachachua.com/blog/2012/05/org-mode-and-habits/][Org-mode and habits]]
+- [[https://sachachua.com/blog/2015/06/adding-calculations-based-on-time-to-the-org-agenda-clock-report/][Adding calculations based on time to the Org Agenda clock report]] (June 2015)
+
+* Images and videos
+:PROPERTIES:
+:CUSTOM_ID: images-and-videos
+:END:
+
+- [[https://sachachua.com/blog/2024/09/include-inline-svgs-in-org-mode-html-and-markdown-exports/][Include inline SVGs in Org Mode HTML and Markdown exports]] (2024)
+- [[https://sachachua.com/blog/2024/09/org-attaching-the-latest-image-from-my-supernote-via-browse-and-access/][org-attaching the latest image from my Supernote via Browse and Access]] (2024)
+- [[https://sachachua.com/blog/2023/01/fixing-my-old-ambiguous-sketch-references/][Fixing my old ambiguous sketch references]] (2023)
+- [[https://sachachua.com/blog/2021/04/org-mode-insert-youtube-video-with-separate-captions/][Org Mode: Insert YouTube video with separate captions]] (2021)
+- [[https://sachachua.com/blog/2018/03/using-org-mode-latex-beamer-and-medibang-paint-to-make-a-childrens-book/][Using Org Mode, LaTeX, Beamer, and Medibang Paint to make a children’s book]]
+- [[https://sachachua.com/blog/2018/03/making-an-8-page-7x4-25-captioned-photo-book-with-org-mode-and-latex/][Making an 8-page 7″x4.25″ captioned photo book with Org Mode and LaTeX]]
+- [[https://sachachua.com/blog/2020/12/org-mode-create-a-quick-timestamped-note-and-capture-a-screenshot-by-prefilling-a-capture-template-via-emacs-lisp/][Org Mode: Create a quick timestamped note and capture a screenshot]]
+
+* Navigation and links
+:PROPERTIES:
+:CUSTOM_ID: navigation-and-links
+:END:
+- [[https://sachachua.com/blog/2024/10/yay-emacs-7-rewriting-and-copying-custom-org-mode-links/][Yay Emacs 7: Rewriting and copying custom Org Mode links]]
+- [[https://sachachua.com/blog/2023/01/adding-a-custom-header-argument-to-org-mode-source-blocks-and-using-that-argument-during-export/][Adding a custom header argument to Org Mode source blocks and using that argument during export]] (2023)
+- [[https://sachachua.com/blog/2024/10/insert-a-link-to-an-org-mode-heading-from-an-org-refile-prompt/][Insert a link to an Org Mode heading from an org-refile prompt]] (2024)
+- [[https://sachachua.com/blog/2024/01/using-embark-and-qrencode-to-show-a-qr-code-for-the-org-mode-link-at-point/][Using Embark and qrencode to show a QR code for the Org Mode link at point]] (2024)
+- [[https://sachachua.com/blog/2024/01/org-mode-custom-link-copy-to-clipboard/][Org Mode custom link: copy to clipboard]] (2024)
+- [[https://sachachua.com/blog/2024/01/using-an-emacs-lisp-macro-to-define-quick-custom-org-mode-links-to-project-files/][Using an Emacs Lisp macro to define quick custom Org Mode links to project files; plus URLs and search]] (2024)
+- [[https://sachachua.com/blog/2023/09/org-protocol-following-org-links-from-outside-emacs/][Org protocol: following Org links from outside Emacs]] (2023)
+* Refiling and organization
+:PROPERTIES:
+:CUSTOM_ID: refiling-and-organization
+:END:
+- [[https://sachachua.com/blog/2023/12/automatically-refiling-org-mode-headings-based-on-tags/][Automatically refiling Org Mode headings based on tags]] (2023)
+- [[https://sachachua.com/blog/2019/06/making-a-numpad-based-hydra-for-categorizing-org-list-items/][Making a numpad-based hydra for categorizing Org list items]]
+- [[https://sachachua.com/blog/2017/12/sorting-org-mode-lists-using-a-sequence-of-regular-expressions/][Sorting Org Mode lists using a sequence of regular expressions]]
+- [[https://sachachua.com/blog/2015/02/digital-index-piles-emacs-rapid-categorization-org-mode-items/][Digital index piles with Emacs: Rapid categorization of Org Mode items]] (Feb 2015)
+- [[https://sachachua.com/blog/2020/12/org-mode-answers-task-creation-time-subtree-at-end-emacs-lisp-variables-in-tblfm-logbook-and-refile/][#org-mode answers: task creation time, subtree at end, Emacs Lisp variables in TBLFM, logbook and refile]]
+
+* Babel and source blocks
+:PROPERTIES:
+:CUSTOM_ID: babel-and-source-blocks
+:END:
+- [[https://sachachua.com/blog/2023/02/using-org-babel-to-learn-rubik-s-cube-algorithms/][Using Org Babel to learn Rubik's cube algorithms]] (2023)
+- [[https://sachachua.com/blog/2024/01/running-the-current-org-mode-babel-javascript-block-in-spookfox/][Running the current Org Mode Babel Javascript block from Emacs using Spookfox]] (2024)
+* Publishing
+:PROPERTIES:
+:CUSTOM_ID: publishing
+:END:
+
+- [[https://sachachua.com/blog/2021/03/org2blog-add-a-note-to-the-bottom-of-blog-posts-exported-from-my-config-file/][Add a note to the bottom of blog posts exported from my config file]] (2021)
+- [[https://sachachua.com/blog/2018/01/org-mode-inserting-a-function-definition/][Org Mode: Inserting a function definition]]
+- [[https://sachachua.com/blog/2023/01/linking-to-and-exporting-function-definitions-in-org-mode/][Linking to and exporting function definitions in Org Mode]] (2023)
+- [[https://sachachua.com/blog/2019/05/adding-target-option-for-the-toc-keyword-in-org-mode/][Adding :target option for the TOC keyword in Org Mode]]
+- [[https://sachachua.com/blog/2023/01/moving-my-org-post-subtree-to-the-11ty-directory/][Moving my Org post subtree to the 11ty directory]] (2023)
+- [[https://sachachua.com/blog/2023/01/org-mode-including-portions-of-files-between-two-regular-expressions/][Org Mode: Including portions of files between two regular expressions]] (2023)
+- [[https://sachachua.com/blog/2016/02/publishing-emacs-news-plain-text-html-attached-org-file/][Publishing Emacs News as plain text, HTML, and attached Org file]]
+- [[https://sachachua.com/blog/2019/06/turning-an-org-mode-outline-into-an-html-table-with-a-column-for-more-notes/][Turning an Org Mode outline into an HTML table with a column for more notes]]
+- [[https://sachachua.com/blog/2013/08/helping-someone-get-started-with-emacs-and-org-mode-through-org2blog-troubleshooting-steps/][Helping someone get started with Emacs and Org Mode through Org2Blog and LaTeX; troubleshooting steps]]
+- [[https://sachachua.com/blog/2011/08/mailing-non-emacs-users-your-org-notes/][Mailing non-Emacs users your Org notes]]
+- [[https://sachachua.com/blog/2010/07/using-org2blog-to-publish-org-mode-subtrees/][Using org2blog to publish Org-mode subtrees]]
+- [[https://sachachua.com/blog/2013/04/how-to-present-using-org-mode-in-emacs/][How to present using Org-mode in Emacs]] (Apr 2013)
+- [[https://sachachua.com/blog/2007/12/publishing-my-org-agenda-to-my-blog/][Publishing my Org agenda to my blog]]
+- [[https://sachachua.com/blog/2023/04/using-org-mode-tables-and-emacs-lisp-to-create-minecraft-java-json-command-books/][Using Org Mode tables and Emacs Lisp to create Minecraft Java JSON command books]] (2023)
+* Data
+:PROPERTIES:
+:CUSTOM_ID: data
+:END:
+
+- [[https://sachachua.com/blog/2015/06/using-your-own-emacs-lisp-functions-in-org-mode-table-calculations-easier-dosage-totals/][Using your own Emacs Lisp functions in Org Mode table calculations: easier dosage totals]] (June 2015)
+- [[https://sachachua.com/blog/2015/06/using-emacs-org-mode-tables-to-calculate-doses-to-buy/][Using Emacs Org Mode tables to calculate doses to buy]] (June 2015)
+- [[https://sachachua.com/blog/2015/01/getting-data-org-mode-tables/][Getting data from Org Mode tables]] (Jan 2015)
+- [[https://sachachua.com/blog/2015/11/org-mode-tables-fill-quizzes-latin-verb-conjugation-drills-emacs/][Org Mode tables and fill-in quizzes - Latin verb conjugation drills in Emacs]] (Nov 2015)
+- [[https://sachachua.com/blog/2015/08/org-mode-date-arithmetic/][Org Mode date arithmetic]] (August 2015)
+- [[https://sachachua.com/blog/2015/03/emacs-org-mode-power-plain-text/][Emacs Org Mode and the power of plain text]] (Mar 2015)
+- Using Org to help make a font:
+  - [[https://sachachua.com/blog/2020/06/having-fun-kerning-using-org-mode-and-fontforge/][Having fun kerning using Org Mode and FontForge]]
+  - [[https://sachachua.com/blog/2020/06/pythonfontforgeorg-i-made-a-font-based-on-my-handwriting/][Python+FontForge+Org: I made a font based on my handwriting!]]
+  - [[https://sachachua.com/blog/2019/10/python-org-mode-and-writing-org-tables-to-csvs-so-that-i-can-read-them-back/][Python, Org Mode, and writing Org tables to CSVs so that I can read them back]]
+
+* Misc
+:PROPERTIES:
+:CUSTOM_ID: misc
+:END:
+- [[https://sachachua.com/blog/2012/06/emacs-org-grocery-lists-batch-cooking/][Using Emacs Org for grocery lists and batch cooking]]
+- [[https://sachachua.com/blog/2013/02/rediscovering-emacs-features-or-what-to-do-after-you-get-carried-away-installing-packages/][Rediscovering Emacs features, or what to do after you get carried away installing packages]] - org drill
+- [[https://sachachua.com/blog/2014/06/summarizing-last-meeting-dates-org-contacts/][Summarizing the last meeting dates in Org Contacts]] (June 2014)
+- [[https://sachachua.com/blog/2011/03/quick-notes-from-emacs-org-mode-talk-at-gtalug/][Quick notes from Emacs Org-mode talk at GTALUG]]
+- [[https://sachachua.com/blog/2010/05/org-toodledo/][Org-toodledo]]
+- [[https://sachachua.com/blog/2009/04/nothing-quite-like-org-for-emacs/][Nothing quite like Org for Emacs]]
+- [[https://sachachua.com/blog/2009/06/thoughts-on-toodledo-versus-emacs-org/][Thoughts on Toodledo versus Emacs Org]]
+- [[https://sachachua.com/blog/2013/11/emacs-org-mode-customization-survey/][Emacs Org Mode Customization Survey]] (Nov 2013)
+- [[https://sachachua.com/blog/2008/02/chapter-7-managing-your-notes-in-emacs-done/][Chapter 7: Managing Your Notes in Emacs - done!]]
+- [[https://sachachua.com/blog/2008/07/emacs-org-google-tech-talk/][Emacs Org Google Tech Talk]]
+- [[https://sachachua.com/blog/2008/12/emacs-org-and-bbdb-hyperlinking-names-to-blogs/][Emacs Org and BBDB: Hyperlinking names to blogs]]
+* Obsolete
+:PROPERTIES:
+:CUSTOM_ID: obsolete
+:END:
+- [[https://sachachua.com/blog/2008/07/emacs-smarter-interactive-prompts-with-org-remember-templates/][Emacs: Smarter interactive prompts with Org remember templates]]
+- [[https://sachachua.com/blog/2008/01/working-on-section-on-org-and-projects/][Working on section on Org and projects]]
+- [[https://sachachua.com/blog/2008/01/zomg-another-chapter-up/][zomg another chapter up!]]
+- [[https://sachachua.com/blog/2008/01/writing-plans-for-the-chapter-on-managing-notes/][Writing plans for the chapter on managing notes]]
+- [[https://sachachua.com/blog/2007/12/emacs-choosing-between-org-and-planner/][Emacs: Choosing between Org and Planner]]
+- [[https://sachachua.com/blog/2011/11/planning-an-emacs-based-personal-wiki-org-muse-hmm/][Planning an Emacs-based personal wiki - Org? Muse? Hmm…]]
+- [[https://sachachua.com/blog/2014/05/update-org-7-comes-emacs-org-8-configuration-better-exports/][How to update the Org 7 that comes with Emacs to Org 8 (more configuration! better exports!)]] (May 2014)
+
+
+See also: topic:emacs
